@@ -1,4 +1,4 @@
-# World_Weather_Analysis
+# World Weather Analysis
 ## Overview
 How many times have you planned a trip only to discover the day of departure that your destination is experiencing bad weather? Often times when planning a vacation, the consumer fixates on the destination but does not always consider weather conditions. To save yourself time and a headache planning your next trip, instead of searching every one of your preferred destinations and comparing their respective weather conditions, why not instead search for cities based on your preferred weather conditons and then choose a destination from that much smaller list? That's exactly the service PlanMyTrip provides to their customers. With PlanMyTrip, customers are able to filter a database of cities from all over the world based on their preferred weather conditions and find hotels in cities that match their search criteria.  
 
